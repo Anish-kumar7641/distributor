@@ -1,3 +1,4 @@
+Logr - An amazing project
 <img alt="Distributor icon" src="https://github.com/10up/distributor/blob/trunk/assets/img/icon.svg" height="45" width="45" align="left">
 
 # Distributor
